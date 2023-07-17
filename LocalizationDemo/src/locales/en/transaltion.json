@@ -1,0 +1,10 @@
+{
+    "formlableone": "Register Here",
+    "emaillabel":"Email",
+    "passwordlabel":"Password",
+    "usernamelabel":"Usrname",
+    "firstnamelabel":"First Name",
+    "phonelabel":"Phone",
+    "addresslabel":"Address",
+    "button1label":"Register"
+  }
