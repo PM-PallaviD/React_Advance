@@ -1,0 +1,23 @@
+{
+  "username": "User Name",
+  "password": "Password",
+  "login": "Login",
+  "signUp": "SignUp",
+  "usernameError": "Please check username",
+  "passwordError": "Please check password",
+  "usernameRequire": "Username is required",
+  "passwordRequired": "Password is required",
+  "logOut": "Log Out",
+  "taskForm": "Task Form",
+  "task": "Task",
+  "name": "Name",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "action": "Action",
+  "save": "Save",
+  "cancel": "Cancel",
+  "last": "Last",
+  "first": "First",
+  "phoneNumber": "Phone Number",
+  "email": "Email"
+}

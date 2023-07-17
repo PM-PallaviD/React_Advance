@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.login-form-container{
+height: 270px;
+width: 275px!important;    
+}
+.dialog-custom{
+    height: 100% !important;
+}
+.pointer{
+    cursor: pointer;
+}
+

@@ -1,0 +1,23 @@
+{
+  "username": "वापरकर्ता नाव",
+  "password": "पासवर्ड",
+  "login": "लॉग इन",
+  "signUp": "साइन अप",
+  "usernameError": "कृपया वापरकर्तानाव तपासा",
+  "passwordError": "कृपया पासवर्ड तपासा",
+  "usernameRequire": "वापरकर्तानाव आवश्यक आहे",
+  "passwordRequired": "पासवर्ड आवश्यक आहे",
+  "logOut": "लॉग आउट",
+  "taskForm": "टास्क फॉर्म",
+  "task": "कार्य",
+  "name": "नाव",
+  "startDate": "सुरुवात तारीख",
+  "endDate": "समाप्ती तारीख",
+  "action": "कृती",
+  "save": "जतन करा",
+  "cancel": "रद्द करा",
+  "last": "शेवटचे",
+  "first": "प्रथम",
+  "phoneNumber": "फोन नंबर",
+  "email": "ईमेल"
+}
